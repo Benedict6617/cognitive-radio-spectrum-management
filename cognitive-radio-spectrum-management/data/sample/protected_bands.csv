@@ -1,0 +1,4 @@
+name,start_hz,end_hz,category,source
+Sample Public-Safety Band A,420000000,425000000,public-safety,sample-illustrative
+Sample Public-Safety Band B,450000000,454000000,public-safety,sample-illustrative
+Sample Federal/Government Reserved Band,406000000,410000000,federal-reserved,sample-illustrative

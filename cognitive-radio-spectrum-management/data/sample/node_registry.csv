@@ -1,0 +1,9 @@
+node_id,location_description,latitude,longitude,reliability_weight,status
+node-01,Rooftop A - North Campus,41.881,-87.629,0.782,active
+node-02,Rooftop B - South Campus,41.87,-87.625,0.875,active
+node-03,Water Tower - East Ridge,41.878,-87.61,0.9,active
+node-04,Comms Tower - West Field,41.883,-87.645,0.757,active
+node-05,Rooftop C - Downtown,41.876,-87.632,0.787,active
+node-06,Hilltop Relay - Overlook Park,41.865,-87.618,0.982,active
+node-07,Rooftop D - Riverside,41.89,-87.638,0.768,active
+node-08,Mast - Industrial Park,41.86,-87.641,0.782,active
